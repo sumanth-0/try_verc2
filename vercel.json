@@ -1,0 +1,18 @@
+{
+    "builds": [
+        {
+            "src": "Fullstack_url_phishing_detection_website_DSATM_TECHNORONIN-main/wsgi.py",
+            "use": "@vercel/python",
+            "config": {
+                "maxLambdaSize": "15mb",
+                "runtime": "python3.9"
+            }
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "Fullstack_url_phishing_detection_website_DSATM_TECHNORONIN-main/wsgi.py"
+        }
+    ]
+}
