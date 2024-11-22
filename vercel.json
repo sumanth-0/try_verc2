@@ -4,7 +4,7 @@
             "src": "try_verc2/Fullstack_url_phishing_detection_website_DSATM_TECHNORONIN-main/project/wsgi.py",
             "use": "@vercel/python",
             "config": {
-                "maxLambdaSize": "15mb",
+
                 "runtime": "python3.9"
             }
         }
