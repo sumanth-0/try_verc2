@@ -1,5 +1,5 @@
 # DSATM_TECHNORONIN 
-Made this full stack web app and machine learning project.
+Made this full stack web app and machine learning project .
 ![Screenshot (150)](https://github.com/user-attachments/assets/2d0fa764-ba0c-4279-80fe-57290233f633)
 ![Screenshot (151)](https://github.com/user-attachments/assets/343e24db-fa2a-4288-9c23-907324c83cb3)
 ![Screenshot (148)](https://github.com/user-attachments/assets/5a85d63e-0288-4358-aad6-52c656c793ba)
